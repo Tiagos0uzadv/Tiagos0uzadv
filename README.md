@@ -1,10 +1,10 @@
-# Olá, eu sou o Tiago! 👋
+# Olá, eu sou o Tiago!
 
 Graduando no **1º ano de Engenharia de Software**, focado em aprender os fundamentos da programação e construir projetos práticos.
 
 ---
 
-### 📚 O que estou estudando no momento:
+### O que estou estudando no momento:
 
 - 🐍 **Python:** Conceitos básicos, lógica e primeiros scripts.
 - 🌐 **APIs:** Conceitos de integração, métodos HTTP e consumo de dados.
@@ -12,16 +12,16 @@ Graduando no **1º ano de Engenharia de Software**, focado em aprender os fundam
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas:
+### Tecnologias & Ferramentas:
 
 - **Linguagens & Tecnologias:** Python, HTML5, CSS3
 - **Ferramentas:** VS Code, Git, GitHub
 
 ---
 
-### 📫 Como me encontrar:
+### Como me encontrar:
 
-- **LinkedIn:** [Seu Link Aqui](https://linkedin.com)
+- **LinkedIn:** [Seu Link Aqui]([https://linkedin.com](https://www.linkedin.com/in/tiago-souza-5080563b3/))
 
 <img 
     align="left" 
@@ -71,38 +71,8 @@ Graduando no **1º ano de Engenharia de Software**, focado em aprender os fundam
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="Laravel" 
@@ -111,14 +81,7 @@ Graduando no **1º ano de Engenharia de Software**, focado em aprender os fundam
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
