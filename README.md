@@ -21,7 +21,7 @@ Graduando no **1º ano de Engenharia de Software**, focado em aprender os fundam
 
 ### Como me encontrar:
 
-- **LinkedIn:** [Seu Link Aqui]([https://linkedin.com](https://www.linkedin.com/in/tiago-souza-5080563b3/))
+- **LinkedIn:** ([https://linkedin.com](https://www.linkedin.com/in/tiago-souza-5080563b3/))
 
 <img 
     align="left" 
